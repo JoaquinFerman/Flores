@@ -75,7 +75,7 @@ while True:
 
                 pygame.display.flip()
 
-                clock.tick(70)
+                clock.tick(20)
             screen.blit(center_back, rec_center_back)
             screen.blit(center_surface, rect_center)
         
